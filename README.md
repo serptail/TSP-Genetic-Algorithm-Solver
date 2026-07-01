@@ -1,10 +1,3 @@
-<p align="center">
-  <a href="https://ko-fi.com/serptail">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
-  </a>
-</p>
-
-
 # TSP-Genetic-Algorithm-Solver
 This repository contains a Python implementation of a Traveling Salesman Problem (TSP) solver using Genetic Algorithms hybridized with 2-Opt heuristic optimization and Simulated Annealing. The solver also includes metaheuristic optimizations like Ant Colony Optimization (AOC), also, an Interactive GUI with path highlighting and a city diagram drawer.
 ## What is TSP ?
@@ -58,10 +51,6 @@ If you find RepoUp useful, consider supporting me by:
 - Providing feedback and suggestions
 - Follow me for more :)
 
-<a href="https://ko-fi.com/serptail">
-  <img src="https://github.com/user-attachments/assets/ba118768-9054-416f-b7b2-adaa69a53434" alt="Support me on Ko-fi" width="200" />
-</a>
-    
 ---
 For any issues or feature requests, please open an issue on GitHub. Happy coding!
 <center>
